@@ -1,0 +1,26 @@
+body {
+    background-color: brown;
+    width: 100%;
+    min-height: 100%;
+}
+.header{
+    background-color: aqua;
+}
+#id {
+    width: 900px;
+}
+.menu {
+    background-image:url(https://www.pngplay.com/wp-content/uploads/10/Garena-Free-Fire-Logo-PNG-HD-Images.png) ;
+    background-position: center;
+    border: 3px dotted red;
+}
+.menu .list li {
+    color: black;
+    font-size: 19px;
+    font-weight: bolder;
+    text-decoration: line-through;
+}
+h1:hover {
+    font-size: 100px;
+    color: blueviolet;
+}
