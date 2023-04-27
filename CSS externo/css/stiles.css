@@ -1,0 +1,24 @@
+/*div{
+    background-color: blue;
+    padding: 15px;
+    border: 10px solid yellow;
+    margin: 5px;
+}*/
+p{
+    background-color: cadetblue;
+    text-align: center;
+    width: 100%;
+}
+.parent {
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    z-index: 1;
+}
+.child {
+    background-color: rgb(255, 127, 244);
+    height: 50px;
+    margin: auto;
+    width: 50px;
+    z-index: 2;
+}
